@@ -21,7 +21,6 @@ Let’s collaborate to turn data into insights and ideas into interactive web ex
 
 #### Feel free to reach out if you want to connect, discuss projects, or collaborate
 
-<div align="center"> <a href="Linked in" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" alt="www.linkedin.com/in/habiba-zohir-903721277" /> </a> <a href="mailto:habebazoir@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" alt="Gmail" /> </a> </div>
 ---
 
 #### Don't Miss Get Know me More by:
@@ -31,6 +30,8 @@ Let’s collaborate to turn data into insights and ideas into interactive web ex
 ##### 📁 Check out my [Projects Repository](https://github.com/Hab20044?tab=repositories) for hands-on implementations.
 
 ##### 📄 Check out my [Resume](https://drive.google.com/file/d/1Joj5GYMUBdNkLy7PYzMYmPZOiteNOaUG/view?usp=drive_link).
+
+##### 📄 contact me through my [Linkedin](www.linkedin.com/in/habiba-zohir-903721277).
 ---
 
 <div align="center"> <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="coding gif" /> </div>
